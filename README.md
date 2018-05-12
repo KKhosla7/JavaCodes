@@ -1,5 +1,7 @@
 # Project Structure
 
+
+```
 com
   kkhosla
         projectName
@@ -13,3 +15,4 @@ com
                     application - MVC Controllers
                     service     - Rest Controllers
   BootstrapApplication.java
+```
